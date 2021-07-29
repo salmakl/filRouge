@@ -1,0 +1,25 @@
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.img-container {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  gap: 5px;
+  background-color: #f55e27;
+  padding: 10px;
+  color: white;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.img-container img {
+  width: 100%;
+}
+/*# sourceMappingURL=details.css.map */
